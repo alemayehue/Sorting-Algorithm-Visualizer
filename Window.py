@@ -134,7 +134,7 @@ def main():
     run = True
     clock = pygame.time.Clock()
 
-    n = 50
+    n = 100
     min_val = 0
     max_val = 100
 
